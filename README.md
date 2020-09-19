@@ -39,12 +39,12 @@
 ---
 
 
-<details>
+<!-- <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="mr-code's Github Stats" src="https://github-readme-stats.mr-code.vercel.app/api?username=mr-code&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://mr-code.com
 [instagram]: https://instagram.com/waleed.a.afifi
