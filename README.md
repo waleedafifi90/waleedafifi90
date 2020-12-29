@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Finish Codefellows full stacj JavaScript cource
+- 🥅 ~~2020 Goals: Finish Codefellows full stacj JavaScript cource~~
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!-- ### Spotify Playing 🎧
